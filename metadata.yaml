@@ -1,0 +1,30 @@
+_repo: The-Man-Who-Drove-the-Car_28595
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Pemberton, Max
+    alias: Pemberton, Sir Max
+    birthdate: 1863
+    deathdate: 1950
+    gutenberg_agent_id: '32059'
+    url: http://www.gutenberg.org/2009/agents/32059
+    wikipedia: http://en.wikipedia.org/wiki/Max_Pemberton
+description: ''
+gutenberg_issued: '2009-04-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28595'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Detective and mystery stories'
+- !lcsh 'Chauffeurs -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Short stories'
+title: The Man Who Drove the Car
+url: http://www.gutenberg.org/ebooks/28595
